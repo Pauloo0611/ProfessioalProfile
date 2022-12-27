@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+# ProfessionalProfile
+Site criado com bootstrap, para compartilhar um pouco do meu conhecimento e minhas experiências profissionais.[Clique aqui](https://pauloo0611.github.io/ProfessioalProfile/) para ver o site!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Durante o desenvolvimento utilizei o canva para a criação da logo do site.
+
